@@ -40,3 +40,5 @@ return 0;
 }
 
 //TUTO TO FUNGUJE BEZ 3 RIADKOV KTORE NEJSU NAOPAK !!!!!!!!!!!!!!!!!!!
+//verzia 2
+/// verziaaaaaaaaaaaaaaaaaaaaaa
